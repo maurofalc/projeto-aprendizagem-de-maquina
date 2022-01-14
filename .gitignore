@@ -3,3 +3,5 @@
 .ipynb_checkpoints
 display.ipynb
 images
+knn_old.ipynb
+svm_old.ipynb
